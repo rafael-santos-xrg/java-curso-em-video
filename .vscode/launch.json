@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DisplaySistema",
+            "request": "launch",
+            "mainClass": "DisplaySistema",
+            "projectName": "Java_3fa92237"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HoraDoSistema",
+            "request": "launch",
+            "mainClass": "HoraDoSistema",
+            "projectName": "Java_3fa92237"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinguagemSistema",
+            "request": "launch",
+            "mainClass": "LinguagemSistema",
+            "projectName": "Java_3fa92237"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "PrimeiroPrograma",
+            "projectName": "Java_3fa92237"
+        }
+    ]
+}
