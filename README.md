@@ -1,7 +1,7 @@
 
 ---
 
-# Projetos em Java
+# Projeto Java
 ## Curso Em Vídeo
 
 ---
