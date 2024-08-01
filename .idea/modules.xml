@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula4/aula4.iml" filepath="$PROJECT_DIR$/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/desafio1/desafio1.iml" filepath="$PROJECT_DIR$/Desafios/desafio1/desafio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/desafio2/desafio2.iml" filepath="$PROJECT_DIR$/Desafios/desafio2/desafio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4/ex4.iml" filepath="$PROJECT_DIR$/ex4/ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-curso-em-video-fork.iml" filepath="$PROJECT_DIR$/.idea/java-curso-em-video-fork.iml" />
+    </modules>
+  </component>
+</project>
